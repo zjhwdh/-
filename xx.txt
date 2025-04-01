@@ -1,0 +1,6 @@
+text = "Hello, World!"
+meiyou = "你好，世界！"
+ni de 
+ni hao 
+
+x2了
